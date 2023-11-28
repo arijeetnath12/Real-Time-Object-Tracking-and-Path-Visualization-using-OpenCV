@@ -4,5 +4,9 @@ Implemented real-time object tracking with OpenCV and C++ that is capable of tra
 
 
 
-https://github.com/arijeetnath12/Real-Time-Object-Tracking-and-Path-Visualization-using-OpenCV/assets/94764537/4b21779f-a3ad-4209-b1d1-2aaa8890f348
+
+https://github.com/arijeetnath12/Real-Time-Object-Tracking-and-Path-Visualization-using-OpenCV/assets/94764537/5026a01f-8665-419e-a179-ad18e643a670
+
+
+
 
